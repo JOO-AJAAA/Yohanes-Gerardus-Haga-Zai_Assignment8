@@ -1,3 +1,6 @@
+## Catatan
+Bang pakai live server nanti jalankan ini yak
+
 # BEST - Belajar CSS HTML
 
 Aplikasi web sederhana untuk builder web dengan sistem routing SPA (Single Page Application).
