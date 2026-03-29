@@ -1,13 +1,10 @@
 ## Catatan
-Bang pakai live server nanti jalankan ini yak
+Bang pakai live server nanti jalankan ini yak. Atau kalau jalankan via github jangan di reload terus pas ada pesan 404 not found coba tekan navigasi lain dulu
 
 # BEST - Belajar CSS HTML
 
 Aplikasi web sederhana untuk builder web dengan sistem routing SPA (Single Page Application).
 
-## 📋 Deskripsi
-
-BEST adalah platform untuk membantu membuat aplikasi web yang cepat dan interaktif. Website ini memiliki fitur routing dinamis yang memungkinkan navigasi tanpa reload halaman.
 
 ## ✨ Fitur
 
@@ -16,15 +13,6 @@ BEST adalah platform untuk membantu membuat aplikasi web yang cepat dan interakt
 - **Form Pemesanan**: Form lengkap untuk pemesanan pembuatan website
 - **Data Profil**: Tabel data diri dengan kontak person (WhatsApp & Email)
 - **Map Lokasi**: Embedded Google Maps untuk menunjukkan lokasi bisnis
-
-## 📁 Struktur File
-
-```
-├── index.html      # File HTML utama
-├── style.css       # Stylesheet
-├── app.js          # JavaScript routing logic
-└── README.md       # File dokumentasi ini
-```
 
 ## 📄 Halaman yang Tersedia
 
